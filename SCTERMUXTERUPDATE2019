@@ -1,0 +1,17 @@
+pkg update && pkg upgrade
+
+
+
+pkg install git  &&  pkg install python2 
+
+
+pip2 install mechanize  &&  pip2 install requests   
+
+
+git clone https://github.com/ZAKIMAULANAR2019/ZAKIMAULANAR2019
+
+
+cd ZAKIMAULANAR2019 &&  python2 dkfb
+
+[*] Username : ZAKI
+[*] Password : MAULANA
